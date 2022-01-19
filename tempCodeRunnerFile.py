@@ -1,7 +1,4 @@
-raversal())
-    print(number_tree.pre_order_traversal())
-    print(number_tree.post_order_traversal())
-    print(number_tree.search(20))
-    print(number_tree.find_max())
-    print(number_tree.find_min())
-    print(number_tree.total_sum(
+inary_search(number_list, number_to_find)    
+    # index = linear_search(number_list, number_to_find)    
+    # print(f"Number found at {index} using linear search")
+    print(f"Numb
